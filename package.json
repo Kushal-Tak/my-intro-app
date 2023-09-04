@@ -20,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,6 +42,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "“http://kushal.tak.github.io/my-intro-app",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
