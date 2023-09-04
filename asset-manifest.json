@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/static/css/main.073c9b0a.css",
+    "main.js": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/static/js/main.aca68e2a.js",
+    "static/js/787.ba1a0418.chunk.js": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/static/js/787.ba1a0418.chunk.js",
+    "index.html": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/index.html",
+    "main.073c9b0a.css.map": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/static/css/main.073c9b0a.css.map",
+    "main.aca68e2a.js.map": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/static/js/main.aca68e2a.js.map",
+    "787.ba1a0418.chunk.js.map": "/%E2%80%9Chttp://kushal.tak.github.io/my-intro-app/static/js/787.ba1a0418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aca68e2a.js"
+  ]
+}
