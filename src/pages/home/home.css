@@ -1,0 +1,25 @@
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% of the viewport height */
+  }
+  
+  .card {
+    text-align: center;
+    padding: 2%;
+    border: 1px solid #650a0a;
+    border-radius: 20px;
+    max-width: 50%;
+  }
+  
+  .title {
+    color: green;
+    margin: 0;
+  }
+  
+  .content {
+    color: blue;
+    margin-top: 3%;
+  }
+  
